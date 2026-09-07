@@ -37,10 +37,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=artamote&theme=tokyonight&hide_border=true" />
 </p>
 
-### ⚡ Fun fact
 
-Probably debugging a NullPointerException or a merge conflict right now — send good energy.
-
----
 
 <p align="center"><i>Thanks for stopping by! Feel free to explore my repos ⬆️</i></p>
