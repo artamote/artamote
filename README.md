@@ -1,23 +1,17 @@
 <h1 align="center">Hey, I'm Arta 👋</h1>
-<h3 align="center">CS student @ Sharif University — building games, backends, and the occasional boss fight</h3>
+<h3 align="center">CS student @ Sharif University — building things, breaking things, fixing things</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Java+%2B+libGDX+game+dev;Learning+backend+with+Laravel+%2B+FastAPI;Currently+interning+at+iApps;Debugging+one+NullPointerException+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Java+%2B+backend+dev;Learning+Laravel+%2B+FastAPI;Always+debugging+something" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🎮 What I'm building
+### 🧠 What I do
 
-- 🗡️ **[Hollow Knight Clone](https://github.com/artamote)** — A full 2D action-platformer built in Java + libGDX for my Advanced Programming course. Boss fights, checkpoints, camera shake, the works.
-- 🧟 **PvZ2 Clone** — Plants vs. Zombies 2, rebuilt from scratch with proper MVC architecture and design patterns (Factory, Strategy, Observer, State, and friends).
-- ⚽ **Coach.c** — A football-sim AI coach written in C, competing against an engine I don't fully control (character building, mostly).
-
-### 🧠 Currently
-
-- 💼 Interning at **iApps** — an iOS app platform for Iranian users
-- 📚 Following the **MIT OCW CS roadmap** for self-study on the side
-- 🌱 Leveling up my backend skills — Laravel, FastAPI, PostgreSQL, REST APIs, the whole stack
+- 🛠️ Software engineering student, working across Java, C, and Python
+- 🌱 Building out my backend skills — Laravel, FastAPI, PostgreSQL, REST APIs
+- 🎯 I like projects with real architecture behind them — MVC, clean design patterns, systems that actually hold together
 
 ### 🛠️ Toolbox
 
@@ -29,7 +23,6 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/libGDX-E74C3C?style=for-the-badge&logo=libgdx&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
@@ -46,7 +39,7 @@
 
 ### ⚡ Fun fact
 
-Currently debugging a game boss fight and a REST API in the same week — send help (or good energy).
+Probably debugging a NullPointerException or a merge conflict right now — send good energy.
 
 ---
 
